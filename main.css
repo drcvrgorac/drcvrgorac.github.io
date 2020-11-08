@@ -1,0 +1,8 @@
+@font-face {
+    font-family: Formula;
+    src: url('https://www.formula1.com/etc/designs/fom-website/fonts/F1Regular/Formula1-Regular.ttf');
+}
+
+body {
+    font-family: Formula;
+}
